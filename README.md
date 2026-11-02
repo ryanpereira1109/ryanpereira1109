@@ -1,16 +1,24 @@
-## Hi there 👋
+# Ryan Pereira Souza👋
 
-<!--
-**ryanpereira1109/ryanpereira1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Engenharia de Software** na Universidade São Judas Tadeu (Bolsista Integral 100% ProUni)  
+💻 **Técnico em Desenvolvimento de Sistemas** pelo Senac 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 📌 Aprofundando conhecimentos em **Engenharia de Software**, com foco em lógica, estrutura de dados e fundamentos de sistemas.
+- 🛠️ Experiência prática em desenvolvimento técnico com **Java** (Programação Orientada a Objetos) e **SQL** (Banco de Dados Relacional).
+- 💼 Vivência prática em rotinas administrativas, controle financeiro e atendimento ao cliente.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens & Dados:** Java | SQL | HTML | CSS
+- **Versionamento:** Git | GitHub
+- **Ferramentas:** VS Code | IntelliJ | MySQL
+
+---
+
+### 📬 Conecte-se comigo
+- 💼 **LinkedIn:** [linkedin.com/in/ryan-souza-dev](https://www.linkedin.com/in/ryan-souza-dev/)
+- 📧 **E-mail:** comercialryan1109@gmail.com
