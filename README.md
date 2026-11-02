@@ -8,7 +8,6 @@
 ### 🚀 Sobre mim
 - 📌 Aprofundando conhecimentos em **Engenharia de Software**, com foco em lógica, estrutura de dados e fundamentos de sistemas.
 - 🛠️ Experiência prática em desenvolvimento técnico com **Java** (Programação Orientada a Objetos) e **SQL** (Banco de Dados Relacional).
-- 💼 Vivência prática em rotinas administrativas, controle financeiro e atendimento ao cliente.
 
 ---
 
